@@ -1,0 +1,22 @@
+{
+    "name": "SFramework.ECS.Runtime.NodeCanvas",
+    "rootNamespace": "SFramework.ECS.Runtime.NodeCanvas",
+    "references": [
+        "ParadoxNotion",
+        "SFramework.NodeCanvas.Runtime",
+        "SFramework.ECS.Runtime",
+        "SFramework.Core.Runtime",
+        "Leopotam.EcsLite"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "NODE_CANVAS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

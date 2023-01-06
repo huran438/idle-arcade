@@ -1,0 +1,16 @@
+{
+    "name": "SFramework.ECS.Runtime.Tweens",
+    "rootNamespace": "SFramework.ECS.Runtime.Tweens",
+    "references": [
+        "SFramework.Core.Runtime",
+        "SFramework.ECS.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "versionDefines": [],
+    "noEngineReferences": false
+}

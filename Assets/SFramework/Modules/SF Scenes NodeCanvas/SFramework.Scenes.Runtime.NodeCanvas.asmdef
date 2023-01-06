@@ -1,0 +1,22 @@
+{
+    "name": "SFramework.Scenes.Runtime.NodeCanvas",
+    "rootNamespace": "SFramework.Scenes.Runtime.NodeCanvas",
+    "references": [
+        "ParadoxNotion",
+        "SFramework.NodeCanvas.Runtime",
+        "SFramework.Scenes.Runtime",
+        "SFramework.Core.Runtime",
+        "Unity.ResourceManager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "NODE_CANVAS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

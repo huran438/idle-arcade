@@ -1,0 +1,11 @@
+<linker>
+    <assembly fullname="SFramework.Core.Runtime" preserve="all" />
+    <assembly fullname="SFramework.ECS.Runtime" preserve="all" />
+    <assembly fullname="SFramework.NodeCanvas.Runtime" preserve="all" />
+    <assembly fullname="SFramework.UI.Runtime" preserve="all" />
+    <assembly fullname="SFramework.UI.Runtime.NodeCanvas" preserve="all" />
+    <assembly fullname="SFramework.Pools.Runtime" preserve="all" />
+    <assembly fullname="SFramework.Scenes.Runtime" preserve="all" />
+    <assembly fullname="SFramework.Scenes.Runtime.NodeCanvas" preserve="all" />
+    <assembly fullname="ParadoxNotion" preserve="all" />
+</linker>

@@ -1,0 +1,36 @@
+{
+  "FLOAT": 0.0,
+  "INTEGER": 0,
+  "BOOLEAN": false,
+  "STRING": "",
+  "CHAR": 0,
+  "ENUM": 0,
+  "FLAGS": 0,
+  "VECTOR_2": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "VECTOR_3": {"x": 0.0, "y": 0.0, "z": 0.0},
+  "VECTOR_4": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "COLOR": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  },
+  "SF_TYPE": "Hello World/Nested Test 2",
+  "SF_TYPE_ARRAY": [
+    "Hello World/Nested Test",
+    "",
+    "Hello World/Nested Test 3"
+  ],
+  "SF_SCREEN": "Screens/Main",
+  "GAME_OBJECT": {
+    "instanceID": 25056
+  }
+}
